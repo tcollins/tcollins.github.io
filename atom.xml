@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>tcollins</title>
+ <link href="http://tcollins.github.io/atom.xml" rel="self"/>
+ <link href="http://tcollins.github.io/"/>
+ <updated>2014-04-30T18:11:32-04:00</updated>
+ <id>http://tcollins.github.io</id>
+ <author>
+   <name>Tim Collins</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Trying Jekyll</title>
+   <link href="http://tcollins.github.io/2014/04/30/trying-jekyll/"/>
+   <updated>2014-04-30T00:00:00-04:00</updated>
+   <id>http://tcollins.github.io/2014/04/30/trying-jekyll</id>
+   <content type="html">&lt;p&gt;I&amp;#39;m giving &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; with the &lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt; theme a try. Open source software has the best names! &lt;/p&gt;
+
+&lt;p&gt;I don&amp;#39;t know if this will be enough to get me into blogging, but I like the idea of using markdown and git to build a simple website/blog.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;ll see how this goes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
